@@ -1,7 +1,7 @@
 {
   "name": "canvassmith",
   "description": "node-canvas engine for spritesmith",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "homepage": "https://github.com/twolfson/canvassmith",
   "author": {
     "name": "Todd Wolfson",
@@ -15,12 +15,7 @@
   "bugs": {
     "url": "https://github.com/twolfson/canvassmith/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/twolfson/canvassmith/blob/master/LICENSE-MIT"
-    }
-  ],
+  "license": "MIT",
   "main": "lib/engine",
   "engines": {
     "node": ">= 4.0.0"
@@ -44,7 +39,7 @@
     "jscs": "~2.4.0",
     "jshint": "~2.8.0",
     "mocha": "~1.21.4",
-    "spritesmith-engine-test": "~4.0.0",
+    "spritesmith-engine-test": "~5.0.0",
     "twolfson-style": "~1.6.1"
   },
   "keywords": [

@@ -1,4 +1,8 @@
 # canvassmith changelog
+1.3.0 - Added support for Vinyl@2
+
+1.2.1 - Replaced Gratipay with support me page
+
 1.2.0 - Removed support for Node.js < 4
 
 1.1.0 - Upgraded to `canvas@1.3.15` via @aleksanyan in #4
